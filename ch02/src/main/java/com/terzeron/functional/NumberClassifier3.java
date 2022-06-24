@@ -1,4 +1,4 @@
-package com.terzeron.functional.ch02;
+package com.terzeron.functional;
 
 import java.util.stream.IntStream;
 

@@ -1,4 +1,4 @@
-package com.terzeron.functional.ch01;
+package com.terzeron.functional;
 
 import java.util.*;
 import java.util.regex.Matcher;
